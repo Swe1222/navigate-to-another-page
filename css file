@@ -1,0 +1,14 @@
+body{
+background-image:url("bg1.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+background-attachment:fixed;}
+a{
+text-align:right;
+font-size:30px;
+color:yellow;
+float:right;
+word-spacing:60px;
+padding:15px 15px;
+}
+a:hover{color:orange;}

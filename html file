@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Navigation</title>
+<link rel="stylesheet" href="nav.css">
+</head>
+<body>
+<div class="navigation" id="nav">
+<a href="#details"><b>Details</b><br><br>
+<a href="#about"><b>Contact</b><br><br>
+<a href="#history"><b>History</b><br><br>
+<a href="#contact"><b>About</b><br><br>
+<a href="file:///C:/Users/HP/Documents/doremon.html"><b>Home</b>
+</div>
+</body>
+</html>
